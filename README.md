@@ -112,7 +112,10 @@ if(NUM_LOOPS>=10)    {
 
 
 ## OUTPUT
+
 $ ./sem.o 
+
+
 ![image](https://github.com/VimalasahanaW/Linux-IPC-Semaphores/assets/144870812/2e87eaf8-740a-421a-abaa-8167a7fe7967)
 
 
